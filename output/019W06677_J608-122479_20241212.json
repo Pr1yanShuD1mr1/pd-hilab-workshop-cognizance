@@ -1,0 +1,11 @@
+{
+  "input_file": "019W06677_J608-122479_20241212.json",
+  "metrics": {
+    "entity_type_error_rate": 0.16862745098039217,
+    "assertion_error_rate": 0.21568627450980393,
+    "temporality_error_rate": 0.07647058823529412,
+    "subject_error_rate": 0.00196078431372549,
+    "event_date_accuracy": 0.0,
+    "attribute_completeness": 0.9509803921568627
+  }
+}

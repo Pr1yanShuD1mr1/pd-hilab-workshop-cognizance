@@ -1,0 +1,11 @@
+{
+  "input_file": "463W14981_N991-678203_20241205.json",
+  "metrics": {
+    "entity_type_error_rate": 0.0,
+    "assertion_error_rate": 0.152014652014652,
+    "temporality_error_rate": 0.016483516483516484,
+    "subject_error_rate": 0.0,
+    "event_date_accuracy": 0.0,
+    "attribute_completeness": 0.847985347985348
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "input_file": "943W19621_J727-317855_20241217.json",
+  "metrics": {
+    "entity_type_error_rate": 0.05813953488372093,
+    "assertion_error_rate": 0.05813953488372093,
+    "temporality_error_rate": 0.0,
+    "subject_error_rate": 0.011627906976744186,
+    "event_date_accuracy": 1.0,
+    "attribute_completeness": 0.9069767441860465
+  }
+}

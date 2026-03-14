@@ -1,0 +1,11 @@
+{
+  "input_file": "352M97319_J619-223143_20241126.json",
+  "metrics": {
+    "entity_type_error_rate": 0.10490463215258855,
+    "assertion_error_rate": 0.10217983651226158,
+    "temporality_error_rate": 0.05449591280653951,
+    "subject_error_rate": 0.005449591280653951,
+    "event_date_accuracy": 0.0,
+    "attribute_completeness": 0.8494550408719346
+  }
+}

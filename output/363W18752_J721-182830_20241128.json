@@ -1,0 +1,11 @@
+{
+  "input_file": "363W18752_J721-182830_20241128.json",
+  "metrics": {
+    "entity_type_error_rate": 0.019230769230769232,
+    "assertion_error_rate": 0.1047008547008547,
+    "temporality_error_rate": 0.038461538461538464,
+    "subject_error_rate": 0.004273504273504274,
+    "event_date_accuracy": 0.0,
+    "attribute_completeness": 0.9145299145299145
+  }
+}
